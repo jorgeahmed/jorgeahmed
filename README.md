@@ -63,17 +63,17 @@ I am a **Senior Project Manager** with over **15 years of experience** bridging 
 
 ## 🏆 Featured Projects
 
-### [IoT Project Efficiency Simulator](https://github.com/jorgeahmed/iot-project-efficiency-simulator)
-*Python, Pandas, Scikit-learn*
-> **Business Case:** A simulation tool designed to predict maintenance needs and optimize energy consumption in industrial facilities. Based on real-world experiences where similar logic reduced operational costs by 20%.
+### [Seismic-IoT Alert System](https://github.com/jorgeahmed/seismic-iot-alert-system)
+*Python, TensorFlow, IoT*
+> **Business Case:** The core monitoring logic used by **SeismicAI** to protect **BBVA** infrastructure. Designed to reduce critical alert latency by 80% using edge computing.
 
-### [Fashion-MNIST Inventory Automation](https://github.com/jorgeahmed/fashion-mnist-project)
-*TensorFlow, Keras, Computer Vision*
-> **Business Case:** An automated classification model for retail inventory. demonstrates the application of Deep Learning to supply chain optimization, achieving high accuracy in item categorization.
+### [Banking Infrastructure Auditor](https://github.com/jorgeahmed/banking-infra-compliance)
+*Python, TIA-942, Compliance*
+> **Business Case:** An automated audit tool for **Santander/Banxico** cabling projects. Validates 5,000+ nodes against Cat 7A standards to ensure 99.999% uptime for financial systems.
 
-### [Project Health Dashboard](https://github.com/jorgeahmed/project-health-dashboard)
-*Python, APIs, Automation*
-> **Business Case:** A proof-of-concept for automating stakeholder reporting. Connects to project data sources to visualize key health metrics, reducing manual reporting time by up to 80%.
+### [Construction Cost Estimator](https://github.com/jorgeahmed/construction-cost-estimator)
+*Python, Civil Engineering, ROI*
+> **Business Case:** Used at **Mantenimiento Sinai** and **Pretencreto**. Algorithms to predict material needs and ROI for industrial renovations, helping scale revenue to **$2.5M USD**.
 
 ---
 
