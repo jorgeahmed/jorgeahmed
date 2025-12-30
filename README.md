@@ -6,8 +6,8 @@
 
 # Hi there, I'm Jorge! 👋
 
-### Senior Technical Project Manager | Infrastructure, AI & IoT Builder
-*Turning complex technical challenges into streamlined business solutions.*
+### Senior Technical Project Manager & CEO | Driving $2.5M+ Infra Projects
+*AI Solutions for BBVA & SeismicAI | Python | IoT | FinTech | 15Y+ Exp.*
 
 </div>
 
@@ -22,6 +22,19 @@ I am a **Senior Project Manager** with over **15 years of experience** bridging 
 - 🎯 **Goal:** Seeking to leverage my dual background in management and engineering to lead high-impact technical initiatives in the US market.
 
 ---
+
+## 🚀 Professional Journey
+
+<div align="center">
+
+| Period | Role | Key Impact |
+| :--- | :--- | :--- |
+| **2023 - Present** | **Technical Account Mgr / CEO** <br> *SeismicAI & Sinai* | • Led AI seismic alert rollout for **BBVA** <br> • Scaled industrial services rev to **$2.5M USD** |
+| **2019 - 2022** | **Founder** <br> *No_madxperience* | • Built No-Code platform (GlideApps) <br> • Raised capital & digitized rental mgmt |
+| **2017 - 2019** | **Lead Project Manager** <br> *AT&T / Integra* | • Managed **1,000 km** fiber construction <br> • Reduced intervention time by 24h |
+| **2010 - 2013** | **Infra Coordinator** <br> *Santander Mexico* | • Modernized **Banxico** cabling infra (Cat 7A) <br> • Upgraded network for HQ & branches |
+
+</div>
 
 <div align="center">
 
