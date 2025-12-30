@@ -1,7 +1,15 @@
+<div align="center">
+  <img src="header_v1.png" width="100%" alt="Profile Header" />
+</div>
+
+<div align="center">
+
 # Hi there, I'm Jorge! 👋
 
 ### Senior Technical Project Manager | Infrastructure, AI & IoT Builder
 *Turning complex technical challenges into streamlined business solutions.*
+
+</div>
 
 ---
 
@@ -14,6 +22,8 @@ I am a **Senior Project Manager** with over **15 years of experience** bridging 
 - 🎯 **Goal:** Seeking to leverage my dual background in management and engineering to lead high-impact technical initiatives in the US market.
 
 ---
+
+<div align="center">
 
 ## 🛠️ Tech Stack
 
@@ -33,6 +43,8 @@ I am a **Senior Project Manager** with over **15 years of experience** bridging 
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT-Important?style=for-the-badge" />
 </p>
+
+</div>
 
 ---
 
